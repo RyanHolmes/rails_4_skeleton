@@ -18,6 +18,7 @@ gem 'devise', '~> 3.2'
 gem 'twitter-bootstrap-rails'
 gem 'factory_girl_rails'
 gem 'activeadmin', '~> 1.0.0.pre2'
+gem 'delayed_job_active_record'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
